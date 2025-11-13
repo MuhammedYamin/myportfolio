@@ -6,8 +6,8 @@ type Social = { id: string; href: string; label: string; img: string };
 const SOCIALS: Social[] = [
   { id: 'github', href: 'https://github.com/MuhammedYamin', label: 'GitHub', img: '/images/projects/github.png' },
   { id: 'linkedin', href: 'https://www.linkedin.com/in/m-yamin/', label: 'LinkedIn', img: '/images/projects/linkedin.png' },
-  { id: 'reddit', href: 'https://www.reddit.com/user/MuhammedYamin', label: 'Reddit', img: '/images/projects/reddit.png' },
-  { id: 'instagram', href: 'https://www.instagram.com/', label: 'Instagram', img: '/images/projects/instagram.png' },
+  { id: 'reddit', href: 'https://www.reddit.com/user/mortalbeing11/', label: 'Reddit', img: '/images/projects/reddit.png' },
+  { id: 'instagram', href: 'https://www.instagram.com/yaamin.10/', label: 'Instagram', img: '/images/projects/instagram.png' },
 ];
 
 export default function SocialMarquee() {
